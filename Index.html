@@ -1,11 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
+    <title>Cadastro de Produtos</title>
 </head>
 <body>
-    <h1>Ramon Vinicius </h1>
+    <main>
+        <form action="/salvar-produto" method="POST">
+            <h2>Cadastre um produto</h2>
+            <label for="nome">Nome do produto:</label>
+            <input type="text" id="nomeid" name="nome_produto" placeholder="Ex: Teclado Gamer Mecânico" required>
+            <label for="preco">Preço do produto:</label>
+            <input type="preco" id="precoid" name="preco_produto" placeholder="Ex: 50,00R$" required>
+            <label for="data">Data de Lançamento do Produto:</label>
+            <input type="date" id="dataid" name="data_produto" required>
+            <input type="button">
+            
+
+
+
+
+        </form>
+
+
+    </main>
+    
 </body>
 </html>
