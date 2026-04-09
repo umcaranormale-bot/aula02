@@ -1,17 +1,13 @@
 body {
 
 background-color: darkgray;
-
-}
-
-body {
-
-    background-image: url('https://chc.org.br/wp-content/uploads/2014/01/croc-fig-2.jpg');
+background-image: url('https://chc.org.br/wp-content/uploads/2014/01/croc-fig-2.jpg');
     background-size: 500px;
     background-position: center;
     background-repeat: no-repeat;
 
 }
+
 
 header {
 
