@@ -13,7 +13,8 @@ header {
 display: flex;
 justify-content: flex-end;
 gap: 15px;
-row-gap: 50px;
+padding-top: 15px;
+padding-right: 15px;
 
 
 
