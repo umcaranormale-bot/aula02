@@ -1,0 +1,27 @@
+body {
+    display: grid;
+    place-items: center;
+    
+}
+
+h1 {
+               
+    font-size: 200%;
+        
+}
+
+h2 {
+               
+    font-size: 200%;
+
+}
+
+.linkhometopo {
+
+    position: absolute;
+
+    top: 20px;
+
+    right: 30px;
+
+}

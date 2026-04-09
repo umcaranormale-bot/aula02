@@ -1,0 +1,25 @@
+body {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+
+
+}
+
+p {
+
+text-align: center;
+font-size: 40px;
+
+}
+
+.linkhometopo {
+
+    position: absolute;
+
+    top: 20px;
+
+    right: 30px;
+
+}

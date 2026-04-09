@@ -12,6 +12,7 @@ background-image: url('https://chc.org.br/wp-content/uploads/2014/01/croc-fig-2.
 header {
 display: flex;
 justify-content: flex-end;
+align-items: center;
 gap: 30px;
 padding-top: 30px;
 padding-right: 50px;
