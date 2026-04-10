@@ -5,6 +5,7 @@ background-image: url('https://chc.org.br/wp-content/uploads/2014/01/croc-fig-2.
     background-size: 500px;
     background-position: center;
     background-repeat: no-repeat;
+    min-height: 100vh;
 
 }
 
