@@ -1,13 +1,14 @@
-body {
+/*body {-->
 
-background-color: darkgray;
-background-image: url('https://chc.org.br/wp-content/uploads/2014/01/croc-fig-2.jpg');
-    background-size: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100vh;
+    background-color: darkgray;
+    background-image: url('https://chc.org.br/wp-content/uploads/2014/01/croc-fig-2.jpg');
+        background-size: 500px;
+        background-position: center;
+        background-repeat: no-repeat;
+        min-height: 100vh;
 
-}
+}*/
+
 
 
 header {
@@ -19,15 +20,20 @@ padding-top: 30px;
 padding-right: 50px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: medium;
-
-
-
-
-
 }
 
 nav a {
-
 color: blueviolet;
+}
 
+main {
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+
+main img {
+width: 700px;
+height: auto;
 }
